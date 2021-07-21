@@ -18,6 +18,8 @@ public class MyTest {
 			l.fatal("Fatal msg");
 			
 			
+			l.trace("VOGLIO AGGIORNARE LA REPO");
+			
 			
 		}
 }
